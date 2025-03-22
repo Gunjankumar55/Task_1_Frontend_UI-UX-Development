@@ -1,6 +1,6 @@
 # 🚀 BlueMedix Dashboard  
 
-A **modern, responsive dashboard** for managing **pharmaceutical products** and **staff accounts** at **BlueMedix**.  
+A **modern, responsive dashboard** for managing **pharmaceutical products** and **USERS** at **BlueMedix**.  
 
 ---
 
